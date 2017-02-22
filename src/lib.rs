@@ -1,4 +1,4 @@
-extern crate base64; // TODO(gardell): Find in crypto
+extern crate base64;
 extern crate crypto;
 extern crate serde;
 #[macro_use]
